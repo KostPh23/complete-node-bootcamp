@@ -5,6 +5,8 @@
     }
   ],
   "settings": {
-    "vim.vimrc.enable": false
+    "vim.vimrc.enable": false,
+    "workbench.colorTheme": "Oceanic Next (dimmed bg)",
+    "workbench.iconTheme": "vs-seti"
   }
 }
